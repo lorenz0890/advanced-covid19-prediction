@@ -1,5 +1,7 @@
 # Neural Network Augmented Compartmental Pandemic Models
 
+Implementation of [manuscript](https://github.com/lorenz0890/advanced-covid19-prediction/blob/master/DNN_Augmented_SIR_Models-1.pdf) of the same title.
+
 ## Abstract
 
 Compartmental models are a tool commonly used in
